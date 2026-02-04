@@ -1,0 +1,11 @@
+package interfaceBD;
+
+public class PrincipalView {
+
+public static void main(String[] args) {
+    	
+		new TelaEntrada();
+
+	}
+
+}
